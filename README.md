@@ -25,4 +25,4 @@ Inspect | View | Share
 
 # Key notes:
 * Downloading requires internet connection, if any download request happens when offline, then WorkManager will schedule them to run when any connection is found even when the app is dead.
-* By cancelling the download from the notification label; you first cancel the background work, and it require you again to cancel the notification by clicking again.
+* By cancelling the download from the notification label; you first cancel the background work, and it requires you again to cancel the notification by clicking once more.
